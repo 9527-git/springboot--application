@@ -1,0 +1,4 @@
+spring:
+    # »·¾³ dev|test|pro
+    profiles:
+        active: oop
